@@ -4,15 +4,15 @@
 
 * [Explore PyMOL Open Source](https://github.com/schrodinger/pymol-open-source)
 
-Open-source foundation of the PyMOL molecular visualization system, maintained by Schrödinger. While PyMOL is a commercial product, we make most of its source code freely available.
+  Open-source foundation of the PyMOL molecular visualization system, maintained by Schrödinger. While PyMOL is a commercial product, we make most of its source code freely available.
 
 * [Explore Maestro Parser](https://github.com/schrodinger/maeparser)
 
-Reader/writer for Schrödinger Maestro files.
+  Reader/writer for Schrödinger Maestro files.
 
 * [Explore GPUSimilarity](https://github.com/schrodinger/gpusimilarity)
 
-The commercial GPUSimilarity product, which is an RDKit-based GPU implementation of chemical fingerprint similarity searching.
+  The commercial GPUSimilarity product, which is an RDKit-based GPU implementation of chemical fingerprint similarity searching.
 
 ----
 
