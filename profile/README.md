@@ -1,4 +1,4 @@
-![Schrodinger GitHub](https://github.com/microsoft/.github/blob/main/profile/schrodinger-github-header.png)
+![Schrodinger GitHub](https://github.com/schrodinger/.github/blob/main/profile/schrodinger-github-header.png)
 
 ## Learn More
 
